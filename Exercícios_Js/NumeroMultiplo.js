@@ -1,5 +1,3 @@
-<script>
-// Entre com 4 variáveis, some mais 5 em cada uma delas e imprima as 4 variáveis.
 let var1 = prompt("Digite número:");
 
 const multiploDeTres = (x) => {
@@ -13,4 +11,3 @@ alert("O número " + var1 + " é múltiplo de 3 ");
 }else{
 alert(var1 + " não é múltiplo de 3");
 }
-</script>

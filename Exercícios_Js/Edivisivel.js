@@ -1,4 +1,4 @@
-<script>
+
     let val = prompt("Digite o valor:");
 
     if (parseInt(val) % 10 == 0) {
@@ -8,4 +8,3 @@
 } else if(parseInt(val) % 2 == 0){
         alert("Valor é divisível por 2");
 }
-</script>
